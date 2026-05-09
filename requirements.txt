@@ -1,1 +1,0 @@
-﻿langchainlangchain-openailanggraphopenai,python-dotenvstreamlit,chromadblangchain-chromapypdfpython-docxlangchain-communitylangchain-text-splitterstavily-pythonfastapiuvicorn
